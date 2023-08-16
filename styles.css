@@ -25,6 +25,7 @@ section {
     -o-border-radius: 10px;
     padding: 10px;
     border-color: rgb(2, 147, 108) aqua rgb(2, 147, 108) aqua;
+    margin-bottom: 5%;
 }
 
 section iframe{
